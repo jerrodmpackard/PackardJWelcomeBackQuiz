@@ -1,0 +1,12 @@
+body {
+    background-color: slategray;
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url("../assets/fonts/Dosis-VariableFont_wght.ttf");
+}
+
+.dosisFont {
+    font-family: dosis;
+}
